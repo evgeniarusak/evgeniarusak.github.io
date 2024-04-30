@@ -1,0 +1,13 @@
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="{{ include.image_path }}" style="{{ include.image_style }}" alt="Image">
+  </div>
+  <div>
+    <h2 href="{{ include.title_url }}">{{ include.title }}</h2>
+    {{ include.description | markdownify }}
+  </div>
+</div>
+
+TODO
+
+{% include module.html image_path="images/effective_pruning.png" title="Effective pruning of web-scale datasets based on complexity of concept clusters" description="How much data is needed to learn a certain concept? Some classes or concepts are easier to learn than others: Distinguishing zebra stripes is a simple pattern matching task, while understanding more high-level concepts is more challenging. In this work, we take the complexity of different concepts into account for pruning large-scale multimodal datasets in order to improve the efficiency of training machine learning models. We successfully reduced the training cost to a quarter of regular training. On DataComp Medium, we achieved competitive performance on 38 evaluation tasks, while only using 27.7% of the data and training compute. This project has also been presented as an **oral** contribution at the [DataComp Workshop at ICCV 2024](https://www.datacomp.ai/workshop.html). I have worked on this project during my internship at [FAIR](https://ai.meta.com/research/) under the supervision of [Ari Morcos](https://www.arimorcos.com/) and [Kamalika Chaudhuri](https://cseweb.ucsd.edu/~kamalika/)."   image_style="width: 300px; height: auto;" title_url="http://example.com" %}

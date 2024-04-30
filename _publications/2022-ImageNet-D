@@ -1,0 +1,20 @@
+title: "ImageNet-D: A new challenging robustness dataset inspired by domain adaptation"
+collection: publications
+permalink: /publication/2022-ImageNet-D:
+date: 2022-07-07
+venue: 'ICML 2022 Shift Happens Workshop'
+---
+
+We propose a new challenging dataset to benchmark robustness of ImageNet-trained models with respect to domain shifts: ImageNet-D. ImageNet- D has six different domains (“Real”, “Painting”, “Clipart”, “Sketch”, “Infograph” and “Quickdraw”). We show that even state-of-the-art models struggle on this dataset and find that they make well-interpretable errors. For example, our best EfficientNet-L2 model experiences a large performance drop even on the “Real” domain from 11.6% on ImageNet clean to 29.2% on the “Real” domain.
+
+[access the paper](https://openreview.net/forum?id=LiC2vmzbpMO)
+[access the code](https://github.com/bethgelab/robustness/tree/main/examples/imagenet_d)
+
+```
+@inproceedings{rusak2022imagenet,
+  title={ImageNet-D: A new challenging robustness dataset inspired by domain adaptation},
+  author={Rusak, Evgenia and Schneider, Steffen and Gehler, Peter Vincent and Bringmann, Oliver and Brendel, Wieland and Bethge, Matthias},
+  booktitle={ICML 2022 Shift Happens Workshop},
+  year={2022}
+}
+```

@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications (Machine Learning)"
-permalink: /publications/
+title: "Publications"
+permalink: /publications_physics/
 author_profile: true
 ---
 
@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.publications_physics reversed %}
   {% include archive-single.html %}
 {% endfor %}
