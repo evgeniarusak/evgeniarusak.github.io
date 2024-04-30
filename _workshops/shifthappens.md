@@ -3,7 +3,7 @@ title: "Shift happens: Crowdsourcing metrics and test datasets beyond ImageNet, 
 collection: workshops
 permalink: /workshops/shifthappens
 date: 2022-07-22
-venue: 'ICML'
+venue: 'International Conference on Machine Learning (ICML)'
 ---
 In the [ShiftHappens Workshop](https://shift-happens-benchmark.github.io/#shift-happens-crowdsourcing-metrics-and-test-datasets-beyond-imagenet), we aimed to create a community-built benchmark suite for ImageNet models comprised of new datasets for OOD robustness and detection, as well as new tasks for existing OOD datasets.
 
