@@ -3,8 +3,8 @@ main:
   - title: "Publications (ML)"
     url: /publications/
     
-  #- title: "Publications (Physics)"
-  #  url: /publications_physics/
+  - title: "Publications (Physics)"
+    url: /publications_physics/
 
   - title: "Community Work"
     url: /workshops/
