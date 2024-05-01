@@ -22,7 +22,7 @@ repository               : "evgeniarusak/evgeniarusak.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "(Potentially) useful links"
+  name             : #"(Potentially) useful links"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Germany"
