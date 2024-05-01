@@ -18,7 +18,7 @@ I have obtained a B.Sc. and a M.Sc. in Physics at the [Karlsruhe Institute of Te
 Aleksandr Vaskin, Soheila Mashhadi, Michael Steinert, Katie E. Chong, David Keene, Stefan Nanz, Aimi Abass, <ins>Evgenia Rusak</ins>, Duk-Yong Choi, Ivan Fernandez-Corbaton, Thomas Pertsch, Carsten Rockstuhl, Mikhail A. Noginov, Yuri S. Kivshar, Dragomir N. Neshev, Natalia Noginova, and Isabelle Staude, *Nano Letters, volume 19, num. 2, 2019*
 
 [**Formation of nanocrystalline graphene on germanium**](https://pubs.rsc.org/en/content/articlelanding/2018/nr/c8nr01261j) \
-Rana Yekani, <ins>Evgenia Rusak</ins>,  Adnan Riaz,   Alexandre Felten,   Ben Breitung,   Simone Dehm,   Delwin Perera,   Jochen Rohrer,   Carsten Rockstuhl,  Ralph Krupke, *Nanoscale, volume 10, num. 25, 2018* \
+Rana Yekani, <ins>Evgenia Rusak</ins>,  Adnan Riaz,   Alexandre Felten,   Ben Breitung,   Simone Dehm,   Delwin Perera,   Jochen Rohrer,   Carsten Rockstuhl,  Ralph Krupke, *Nanoscale, volume 10, num. 25, 2018* 
 
 
 [**Multipolar coupling in hybrid metal-dielectric metasurfaces**](https://pubs.acs.org/doi/10.1021/acsphotonics.6b00012) \
