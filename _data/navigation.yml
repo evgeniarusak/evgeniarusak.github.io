@@ -6,7 +6,7 @@ main:
   - title: "Publications (Physics)"
     url: /publications_physics/
 
-  - title: "Community Work"
+  - title: "Service"
     url: /workshops/
 
   #- title: "Talks"
@@ -21,8 +21,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "CV (pdf)"
+    url: /EvgeniaRusakCV.pdf
     
   #- title: "Guide"
   #  url: /markdown/
