@@ -12,6 +12,7 @@ During my PhD, I have been working on improving the **generalization capabilitie
 
 In my recent works, I am trying to understand how the OOD generalization capabilities of popular foundation models trained on large-scale datasets can be benchmarked. I also find it intriguing to investigate how **multi-modality** affects the learned representations and their generalizability.
 
+I have completed a research internship at FAIR under the guidance of [Ari Morcos](https://www.arimorcos.com/) and [Kamalika Chaudhuri](https://cseweb.ucsd.edu/~kamalika/). During that internship, I have been working on pruning of large-scale datasets for CLIP training. This work has been published at [ICLR 2024](https://openreview.net/forum?id=CtOA9aN8fr).
 
 Latest publications (ICLR 2024)
 ======
