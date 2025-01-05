@@ -12,7 +12,7 @@ During my PhD, I have been working on improving the **generalization capabilitie
 
 In my recent works, I am trying to understand how the OOD generalization capabilities of popular foundation models trained on large-scale datasets can be benchmarked. I also find it intriguing to investigate how **multi-modality** affects the learned representations and their generalizability.
 
-I have completed a research internship at FAIR under the guidance of [Ari Morcos](https://www.arimorcos.com/) and [Kamalika Chaudhuri](https://cseweb.ucsd.edu/~kamalika/). During that internship, I have been working on pruning of large-scale datasets for CLIP training. This work has been published at [ICLR 2024](https://openreview.net/forum?id=CtOA9aN8fr).
+I have completed a research internship at FAIR under the guidance of [Ari Morcos](https://www.arimorcos.com/) and [Kamalika Chaudhuri](https://cseweb.ucsd.edu/~kamalika/). During that internship, I have been working on pruning of large-scale datasets for CLIP training. This work has been published at [ICLR 2024](https://openreview.net/forum?id=CtOA9aN8fr). I have also completed an internship as a student researcher at Google Deepmind under the guidance of [Olivier Hénaff](https://www.olivierhenaff.com/) as a member of the Active Learning team.
 
 Latest publications (ICLR 2024)
 ======
@@ -20,7 +20,7 @@ Latest publications (ICLR 2024)
 [**Effective pruning of web-scale datasets based on complexity of concept clusters**](https://openreview.net/forum?id=CtOA9aN8fr)\
 Amro Abbas\*, <ins>Evgenia Rusak</ins>\*, Kushal Tirumala, Wieland Brendel, Kamalika Chaudhuri, Ari S. Morcos, *ICLR 2024*
 
-We propose a pruning method where we aim to obtain optimal dataset coverage by assessing sample complexity; we report competitive results on the DataComp Medium benchmark and outperform regular OpenCLIP training on LAION with significantly less data. This project has also been presented as an **oral** contribution at the [DataComp Workshop at ICCV 2024](https://www.datacomp.ai/workshop.html).
+We propose a pruning method where we aim to obtain optimal dataset coverage by assessing the complexity of different concepts; we report competitive results on the DataComp Medium benchmark and outperform regular OpenCLIP training on LAION with significantly less data. This project has also been presented as an **oral** contribution at the [DataComp Workshop at ICCV 2024](https://www.datacomp.ai/workshop.html).
 
 
 [**Does CLIP’s generalization performance mainly stem from high train-test similarity?**](https://openreview.net/forum?id=tnBaiidobu)\
