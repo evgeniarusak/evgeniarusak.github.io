@@ -14,26 +14,18 @@ In my recent works, I am trying to understand how the OOD generalization capabil
 
 I have completed a research internship at FAIR under the guidance of [Ari Morcos](https://www.arimorcos.com/) and [Kamalika Chaudhuri](https://cseweb.ucsd.edu/~kamalika/). During that internship, I have been working on pruning of large-scale datasets for CLIP training. This work has been published at [ICLR 2024](https://openreview.net/forum?id=CtOA9aN8fr). I have also completed an internship as a student researcher at Google Deepmind under the guidance of [Olivier Hénaff](https://www.olivierhenaff.com/) as a member of the Active Learning team.
 
-Latest publications (ICLR 2024)
+Latest publications
 ======
 
-[**Effective pruning of web-scale datasets based on complexity of concept clusters**](https://openreview.net/forum?id=CtOA9aN8fr)\
-Amro Abbas\*, <ins>Evgenia Rusak</ins>\*, Kushal Tirumala, Wieland Brendel, Kamalika Chaudhuri, Ari S. Morcos, *ICLR 2024*
+[**InfoNCE: Identifying the Gap Between Theory and Practice, AISTATS 2025**](https://openreview.net/forum?id=6ufuJl2XyE)\
+<ins>Evgenia Rusak</ins>\*, Patrik Reizinger\*, Attila Juhos\*, Oliver Bringmann, Roland S. Zimmermann, Wieland Brendel
 
-We propose a pruning method where we aim to obtain optimal dataset coverage by assessing the complexity of different concepts; we report competitive results on the DataComp Medium benchmark and outperform regular OpenCLIP training on LAION with significantly less data. This project has also been presented as an **oral** contribution at the [DataComp Workshop at ICCV 2024](https://www.datacomp.ai/workshop.html).
+We generalize previous identifiability results for contrastive learning toward anisotropic latents that better capture the effect of augmentations used in practical applications, thereby reducing the gap between theory and practice.
 
+[**In Search of Forgotten Domain Generalization, ICLR 2025**](https://openreview.net/forum?id=Fk3eod9aaD)\
+Prasanna Mayilvahanan\*, Roland S. Zimmermann\*, Thaddäus Wiedemer, <ins>Evgenia Rusak</ins>\, Attila Juhos, Matthias Bethge, Wieland Brendel
 
-[**Does CLIP’s generalization performance mainly stem from high train-test similarity?**](https://openreview.net/forum?id=tnBaiidobu)\
-Prasanna Mayilvahanan\*, Thaddäus Wiedemer\*, <ins>Evgenia Rusak</ins>, Matthias Bethge, Wieland Brendel, *ICLR 2024*
-
-CLIP's ability to generalize to standard OOD benchmarks does not mainly stem from highly similar images in its training dataset.
-This project has also been presented as an **oral** contribution at the [Workshop on Distribution Shifts (DistShift) at NeurIPS 2023](https://sites.google.com/view/distshift2023).
-
-
-[**Removing High Frequency Information Improves DNN Behavioral Alignment**](https://openreview.net/forum?id=Ho0x9DgdZw)\
-Max Wolff,  <ins>Evgenia Rusak</ins>, Wieland Brendel, *Workshop on Representational Alignment, ICLR 2024*
-
-Removing high-frequency information by applying blur and resize transformations dramatically improves the model's alignment with humans according to shape-bias and error-consistency.
+CLIP's high performance on style-centric domain shifts is significantly influenced by the presence of such images in its training set.
 
 [More publications](https://evgeniarusak.github.io/publications)
 
