@@ -7,6 +7,13 @@ permalink: /publications/
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=XKc19kkAAAAJ&hl=en&oi=ao) profile.
 
+[**InfoNCE: Identifying the Gap Between Theory and Practice**](https://openreview.net/forum?id=Fk3eod9aaD)\
+<ins>Evgenia Rusak</ins>\*, Patrik Reizinger\*, Attila Juhos\*, Oliver Bringmann, Roland S. Zimmermann, Wieland Brendel, *AISTATS 2025* \
+[code](https://github.com/brendel-group/AnInfoNCE)
+
+[**In Search of Forgotten Domain Generalization**](https://openreview.net/forum?id=Fk3eod9aaD)\
+Prasanna Mayilvahanan\*, Roland S. Zimmermann\*, Thaddäus Wiedemer, <ins>Evgenia Rusak</ins>, Attila Juhos, Matthias Bethge, Wieland Brendel, *ICLR 2025*
+
 [**Effective pruning of web-scale datasets based on complexity of concept clusters**](https://openreview.net/forum?id=CtOA9aN8fr)\
 Amro Abbas\*, <ins>Evgenia Rusak</ins>\*, Kushal Tirumala, Wieland Brendel, Kamalika Chaudhuri, Ari S. Morcos, *ICLR 2024* \
 [code](https://github.com/amro-kamal/effective_pruning)
