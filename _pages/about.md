@@ -23,7 +23,7 @@ Latest publications
 We generalize previous identifiability results for contrastive learning toward anisotropic latents that better capture the effect of augmentations used in practical applications, thereby reducing the gap between theory and practice.
 
 [**In Search of Forgotten Domain Generalization, ICLR 2025**](https://openreview.net/forum?id=Fk3eod9aaD)\
-Prasanna Mayilvahanan\*, Roland S. Zimmermann\*, Thaddäus Wiedemer, <ins>Evgenia Rusak</ins>\, Attila Juhos, Matthias Bethge, Wieland Brendel
+Prasanna Mayilvahanan\*, Roland S. Zimmermann\*, Thaddäus Wiedemer, <ins>Evgenia Rusak</ins>, Attila Juhos, Matthias Bethge, Wieland Brendel
 
 CLIP's high performance on style-centric domain shifts is significantly influenced by the presence of such images in its training set.
 
