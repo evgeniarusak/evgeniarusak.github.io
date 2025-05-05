@@ -14,6 +14,8 @@ In my recent works, I am trying to understand how the OOD generalization capabil
 
 I have completed a research internship at FAIR under the guidance of [Ari Morcos](https://www.arimorcos.com/) and [Kamalika Chaudhuri](https://cseweb.ucsd.edu/~kamalika/). During that internship, I have been working on pruning of large-scale datasets for CLIP training. This work has been published at [ICLR 2024](https://openreview.net/forum?id=CtOA9aN8fr). I have also completed an internship as a student researcher at Google Deepmind under the guidance of [Olivier Hénaff](https://www.olivierhenaff.com/) as a member of the Active Learning team.
 
+**Announcement**: I am co-organizing the [2nd Workshop on Test-Time Adaptation](https://tta-icml2025.github.io/) which will be hosted at ICML 2025 and we are looking for submissions!
+
 Latest publications
 ======
 
