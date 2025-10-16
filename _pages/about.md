@@ -12,7 +12,7 @@ During my PhD, I have been working on improving the **generalization capabilitie
 
 In my recent works, I am trying to understand how the OOD generalization capabilities of popular foundation models trained on large-scale datasets can be benchmarked. I also find it intriguing to investigate how **multi-modality** affects the learned representations and their generalizability.
 
-I have completed a research internship at FAIR under the guidance of [Ari Morcos](https://www.arimorcos.com/) and [Kamalika Chaudhuri](https://cseweb.ucsd.edu/~kamalika/). During that internship, I have been working on pruning of large-scale datasets for CLIP training. This work has been published at [ICLR 2024](https://openreview.net/forum?id=CtOA9aN8fr). I have also completed an internship as a student researcher at Google Deepmind under the guidance of [Olivier Hénaff](https://www.olivierhenaff.com/) as a member of the Active Learning team.
+I have completed a research internship at FAIR under the guidance of [Ari Morcos](https://www.arimorcos.com/) and [Kamalika Chaudhuri](https://cseweb.ucsd.edu/~kamalika/). During that internship, I have been working on pruning of large-scale datasets for CLIP training. This work has been published at [ICLR 2024](https://openreview.net/forum?id=CtOA9aN8fr). I have also completed an internship as a student researcher at Google Deepmind under the guidance of [Olivier Hénaff](https://www.olivierhenaff.com/) as a member of the Active Learning team. Most recently, I have interned at Cohere where I worked with [Pierre Richemond](https://scholar.google.com/citations?user=cw_TpTcAAAAJ&hl=fr) as part of the multi-modal team.
 
 Latest publications
 ======
