@@ -19,8 +19,6 @@ Latest publications
 [**Low-Pass Filtering Improves Behavioral Alignment of Vision Models, ICLR 2026**]([https://openreview.net/forum?id=6ufuJl2XyE](https://arxiv.org/abs/2602.13859))\
 Max Wolff, Thomas Klein, <ins>Evgenia Rusak</ins>, Felix Wichmann, Wieland Brendel
 
-Low-pass filtering images improves DNN behavioral alignment with humans, and there is a physiological explanation for that.
-
 
 [More publications](https://evgeniarusak.github.io/publications)
 
