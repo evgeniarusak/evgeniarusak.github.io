@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 
 [**Low-Pass Filtering Improves Behavioral Alignment of Vision Models**](https://arxiv.org/abs/2602.13859))\
-Max Wolff, Thomas Klein, <ins>Evgenia Rusak</ins>, Felix Wichmann, Wieland Brendel, *ICLR 2026* \
+Max Wolff, Thomas Klein, <ins>Evgenia Rusak</ins>, Felix Wichmann, Wieland Brendel, *ICLR 2026*
 
 [**InfoNCE: Identifying the Gap Between Theory and Practice**](https://openreview.net/forum?id=Fk3eod9aaD)\
 <ins>Evgenia Rusak</ins>\*, Patrik Reizinger\*, Attila Juhos\*, Oliver Bringmann, Roland S. Zimmermann, Wieland Brendel, *AISTATS 2025* \
