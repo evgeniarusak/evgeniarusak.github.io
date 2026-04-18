@@ -8,7 +8,7 @@ permalink: /publications/
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=XKc19kkAAAAJ&hl=en&oi=ao) profile.
 
 
-[**Low-Pass Filtering Improves Behavioral Alignment of Vision Models**](https://arxiv.org/abs/2602.13859))\
+[**Low-Pass Filtering Improves Behavioral Alignment of Vision Models**](https://arxiv.org/abs/2602.13859)\
 Max Wolff, Thomas Klein, <ins>Evgenia Rusak</ins>, Felix Wichmann, Wieland Brendel, *ICLR 2026*
 
 [**InfoNCE: Identifying the Gap Between Theory and Practice**](https://openreview.net/forum?id=Fk3eod9aaD)\
